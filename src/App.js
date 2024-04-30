@@ -20,11 +20,14 @@ const App = () => {
                         }        
 
                         {
-                            /* Add Remaining component here*/
+                         
                         }        
 
                         {
-                            /* Add ExpenseTotal component here */
+                           //ExpenseTotal component
+                                <div className='col-sm'>
+                                    <ExpenseTotal />
+                    </div>
                         }        
                        
                         {
